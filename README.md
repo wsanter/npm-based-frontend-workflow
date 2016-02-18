@@ -1,8 +1,10 @@
-# awesome-npm-based-frontend-workflow
+# Awesome npm Front-End Workflow [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 >Useful resources for npm based front-end development workflows
 
 ## Articles
 
+- [task automation with npm run](http://substack.net/task_automation_with_npm_run) Autho: James Halliday
 - [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) Author: Keith Cirkel
 - [npm based front-end workflow](https://moroccojs.org/tutorials/npm-based-front-end-workflow/) Author: Youssef Kababe
 - [Utilising Node.js and npm for front-end development workflow](http://jsforallof.us/2015/02/12/utilising-node-and-npm-for-front-end-development-workflow/) Author: Ben Howdle
@@ -40,8 +42,17 @@
 - [node-sass](https://github.com/sass/node-sass) Node.js bindings to libsass
 - [less.js](https://github.com/less/less.js) This is the JavaScript, official, stable version of Less.
 
+### Image Optimization
+
+- [imagemin-cli](https://github.com/imagemin/imagemin-cli) Minify images seamlessly
+- [imageoptim-cli]() Automates ImageOptim, ImageAlpha, and JPEGmini (commercial software) for Mac to make batch optimisation of images part of your automated build process.
+
 ### Styleguide Generators
 
 - [markdown-styleguide-generator](https://github.com/emiloberg/markdown-styleguide-generator) Will search all your (s)css files for comments and generate a single page html styleguide.
 - [styledown](https://github.com/styledown/styledown) Markdown-based styleguide generator.
 - [kss-node](https://github.com/kss-node/kss-node) To get you up and running quickly, a style guide generator is included that can be used from the command line. It parses stylesheets and spits out a set of static HTML files.
+
+## npm Resources and Tips
+
+- [awesome npm](https://github.com/sindresorhus/awesome-npm) A curated list of awesome lists
