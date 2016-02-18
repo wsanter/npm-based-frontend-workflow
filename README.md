@@ -15,7 +15,7 @@
 
 - [grunty](https://github.com/bahmutov/grunty) Run any grunt plugin as NPM script without Gruntfile.js
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) A CLI tool to run multiple npm-scripts in parallel or sequential.
-- [parallelshell]()
+- [parallelshell](https://github.com/keithamus/parallelshell) Run shell commands in parallel.
 
 ### Live Server - Autoreload
 
