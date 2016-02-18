@@ -42,6 +42,10 @@
 - [node-sass](https://github.com/sass/node-sass) Node.js bindings to libsass
 - [less.js](https://github.com/less/less.js) This is the JavaScript, official, stable version of Less.
 
+### CSS Optimization
+
+[PurifyCSS](https://github.com/purifycss/purifycss) A function that takes content (HTML/JS/PHP/etc) and CSS, and returns a file made up of only the selectors you use.
+
 ### Image Optimization
 
 - [imagemin-cli](https://github.com/imagemin/imagemin-cli) Minify images seamlessly
