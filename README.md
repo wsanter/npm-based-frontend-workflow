@@ -33,6 +33,7 @@
 
 ### Copy / Synchronize Files
 
+- [cpy-cli](https://github.com/sindresorhus/cpy-cli) User-friendly by accepting globs and creating non-existant destination directories.
 - [ncp](https://github.com/AvianFlu/ncp) Asynchronous recursive file & directory copying.
 - [node-sync-files](https://github.com/byteclubfr/node-sync-files) Synchronize files or folders locally, with a watch option.
 
