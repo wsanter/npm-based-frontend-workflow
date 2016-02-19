@@ -17,7 +17,7 @@
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [parallelshell](https://github.com/keithamus/parallelshell) Run shell commands in parallel.
 
-### Live Server - Autoreload
+## Live Server - Autoreload
 
 - [Browsersync](https://www.browsersync.io) Browsers are automatically updated as you change HTML, CSS, images and other project files.
 - [browser-refresh](https://github.com/patrick-steele-idem/browser-refresh) Node.js module to enable server restart and browser refresh in response to file modifications.
@@ -25,34 +25,34 @@
 - [live-server](https://github.com/tapio/live-server) A simple development http server with live reload capability.
 - [live-reload](https://github.com/Raynos/live-reload) A live reload server & client
 
-### File Watcher
+## File Watcher
 
 - [rerun-script](https://github.com/wilmoore/rerun-script) Invoke npm scripts upon file changes.
 - [onchange](https://github.com/Qard/onchange) Use glob patterns to watch file sets and run a command when anything is added, changed or deleted.
 - [watch](https://github.com/mikeal/watch)  Utilities for watching file trees.
 
-### Copy / Synchronize Files
+## Copy / Synchronize Files
 
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) User-friendly by accepting globs and creating non-existant destination directories.
 - [ncp](https://github.com/AvianFlu/ncp) Asynchronous recursive file & directory copying.
 - [node-sync-files](https://github.com/byteclubfr/node-sync-files) Synchronize files or folders locally, with a watch option.
 
-### CSS Processors
+## CSS Processors
 - [postcss-cli](https://github.com/postcss/postcss-cli) Postcss Command Line Iterface
 - [stylus](https://github.com/stylus/stylus) Robust, expressive, and feature-rich CSS superset
 - [node-sass](https://github.com/sass/node-sass) Node.js bindings to libsass
 - [less.js](https://github.com/less/less.js) This is the JavaScript, official, stable version of Less.
 
-### CSS Optimization
+## CSS Optimization
 
 [PurifyCSS](https://github.com/purifycss/purifycss) A function that takes content (HTML/JS/PHP/etc) and CSS, and returns a file made up of only the selectors you use.
 
-### Image Optimization
+## Image Optimization
 
 - [imagemin-cli](https://github.com/imagemin/imagemin-cli) Minify images seamlessly
 - [imageoptim-cli]() Automates ImageOptim, ImageAlpha, and JPEGmini (commercial software) for Mac to make batch optimisation of images part of your automated build process.
 
-### Styleguide Generators
+## Styleguide Generators
 
 - [markdown-styleguide-generator](https://github.com/emiloberg/markdown-styleguide-generator) Will search all your (s)css files for comments and generate a single page html styleguide.
 - [styledown](https://github.com/styledown/styledown) Markdown-based styleguide generator.
