@@ -22,7 +22,7 @@
 - [Browsersync](https://www.browsersync.io) Browsers are automatically updated as you change HTML, CSS, images and other project files.
 - [browser-refresh](https://github.com/patrick-steele-idem/browser-refresh) Node.js module to enable server restart and browser refresh in response to file modifications.
 - [reload](https://github.com/jprichardson/reload) Refresh and reload your code in your browser when your code changes. No browser plugins required.
-- A simple development http server with live reload capability.
+- [live-server](https://github.com/tapio/live-server) A simple development http server with live reload capability.
 - [live-reload](https://github.com/Raynos/live-reload) A live reload server & client
 
 ### File Watcher
