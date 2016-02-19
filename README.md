@@ -60,7 +60,7 @@
 
 ## npm Resources and Tips
 
-- [awesome npm](https://github.com/sindresorhus/awesome-npm) A curated list of awesome lists
+- [awesome npm](https://github.com/sindresorhus/awesome-npm) A curated list
 
 ## License
 
