@@ -11,11 +11,6 @@
 - [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/) Author: Damon Bauer
 - [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.sl4nc2cm7) Author: Cory House
 
-## Useful npm packages
-
-- [grunty](https://github.com/bahmutov/grunty) Run any grunt plugin as NPM script without Gruntfile.js
-- [npm-run-all](https://github.com/mysticatea/npm-run-all) A CLI tool to run multiple npm-scripts in parallel or sequential.
-- [parallelshell](https://github.com/keithamus/parallelshell) Run shell commands in parallel.
 
 ## Live Server - Autoreload
 
@@ -57,6 +52,12 @@
 - [markdown-styleguide-generator](https://github.com/emiloberg/markdown-styleguide-generator) Will search all your (s)css files for comments and generate a single page html styleguide.
 - [styledown](https://github.com/styledown/styledown) Markdown-based styleguide generator.
 - [kss-node](https://github.com/kss-node/kss-node) To get you up and running quickly, a style guide generator is included that can be used from the command line. It parses stylesheets and spits out a set of static HTML files.
+
+## Useful npm packages
+
+- [grunty](https://github.com/bahmutov/grunty) Run any grunt plugin as NPM script without Gruntfile.js
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) A CLI tool to run multiple npm-scripts in parallel or sequential.
+- [parallelshell](https://github.com/keithamus/parallelshell) Run shell commands in parallel.
 
 ## npm Resources and Tips
 
