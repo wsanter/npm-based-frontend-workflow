@@ -11,7 +11,6 @@
 - [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/) Author: Damon Bauer
 - [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.sl4nc2cm7) Author: Cory House
 
-
 ## Live Server - Autoreload
 
 - [Browsersync](https://www.browsersync.io) Browsers are automatically updated as you change HTML, CSS, images and other project files.
@@ -28,7 +27,7 @@
 
 ## Run Scripts in Paralell 
 
-- - [npm-run-all](https://github.com/mysticatea/npm-run-all) A CLI tool to run multiple npm-scripts in parallel or sequential.
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [better-npm-run](https://github.com/benoror/better-npm-run) Better NPM scripts runner
 - [concurrently](https://github.com/kimmobrunfeldt/concurrently) Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
 
@@ -62,7 +61,6 @@
 ## Useful npm packages
 
 - [grunty](https://github.com/bahmutov/grunty) Run any grunt plugin as NPM script without Gruntfile.js
-- [parallelshell](https://github.com/keithamus/parallelshell) Run shell commands in parallel.
 
 ## npm Resources and Tips
 
