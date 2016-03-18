@@ -38,6 +38,7 @@
 - [node-sync-files](https://github.com/byteclubfr/node-sync-files) Synchronize files or folders locally, with a watch option.
 
 ## CSS Processors
+
 - [postcss-cli](https://github.com/postcss/postcss-cli) Postcss Command Line Iterface
 - [stylus](https://github.com/stylus/stylus) Robust, expressive, and feature-rich CSS superset
 - [node-sass](https://github.com/sass/node-sass) Node.js bindings to libsass
@@ -54,6 +55,7 @@
 
 ## Styleguide Generators
 
+- [postcss-style-guide](https://github.com/morishitter/postcss-style-guide) PostCSS plugin to generate a style guide automatically. CSS comments will be parsed through Markdown and displayed in a generated HTML document.
 - [markdown-styleguide-generator](https://github.com/emiloberg/markdown-styleguide-generator) Will search all your (s)css files for comments and generate a single page html styleguide.
 - [styledown](https://github.com/styledown/styledown) Markdown-based styleguide generator.
 - [kss-node](https://github.com/kss-node/kss-node) To get you up and running quickly, a style guide generator is included that can be used from the command line. It parses stylesheets and spits out a set of static HTML files.
