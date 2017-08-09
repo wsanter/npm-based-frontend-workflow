@@ -82,6 +82,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 ## Useful npm packages
 
 - [grunty](https://github.com/bahmutov/grunty) Run any grunt plugin as NPM script without Gruntfile.js
+- [nps](https://github.com/kentcdodds/nps) All the benefits of npm scripts without the cost of a bloated package.json and limits of json
 
 ## npm Resources and Tips
 
