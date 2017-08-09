@@ -54,6 +54,23 @@
 - [imagemin-cli](https://github.com/imagemin/imagemin-cli) Minify images seamlessly
 - [imageoptim-cli]() Automates ImageOptim, ImageAlpha, and JPEGmini (commercial software) for Mac to make batch optimisation of images part of your automated build process.
 
+## Cross-platform Utilities
+
+Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
+
+- [rimraf](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`.
+- [del-cli](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion.
+- [mkdirp](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`.
+- [cpy-cli](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming.
+- [copyfiles](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory.
+- [sync-files](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode.
+- [echo-cli](https://github.com/iamakulov/echo-cli) - Cross-platform `echo` with JS escape sequence support.
+- [clear-cli](https://github.com/sindresorhus/clear-cli) - Clear the terminal.
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style.
+- [cross-os](https://github.com/milewski/cross-os) - Run platform-specific npm scripts.
+- [ntee](https://github.com/stefanmaric/ntee) - Utility that reads from standard input and writes to standard output and files; like Unix `tee`.
+- [catw](https://github.com/substack/catw) - Print a file to stdout, with optional watch mode; sorta like Unix `cat`.
+
 ## Styleguide Generators
 
 - [postcss-style-guide](https://github.com/morishitter/postcss-style-guide) PostCSS plugin to generate a style guide automatically. CSS comments will be parsed through Markdown and displayed in a generated HTML document.
