@@ -68,7 +68,7 @@
 ## npm Resources and Tips
 
 - [awesome npm](https://github.com/sindresorhus/awesome-npm) A curated list
-- [awesome npm scripts] (https://github.com/RyanZim/awesome-npm-scripts) Everything awesome for using npm as a build tool
+- [awesome npm scripts](https://github.com/RyanZim/awesome-npm-scripts) Everything awesome for using npm as a build tool
 
 ## License
 
