@@ -25,6 +25,7 @@
 - [rerun-script](https://github.com/wilmoore/rerun-script) Invoke npm scripts upon file changes.
 - [onchange](https://github.com/Qard/onchange) Use glob patterns to watch file sets and run a command when anything is added, changed or deleted.
 - [watch](https://github.com/mikeal/watch)  Utilities for watching file trees.
+- [npm-watch](https://github.com/M-Zuber/npm-watch) Run scripts from package.json when files change.
 
 ## Run Scripts in Paralell 
 
