@@ -50,6 +50,7 @@
 ## CSS Optimization
 
 - [PurifyCSS](https://github.com/purifycss/purifycss) A function that takes content (HTML/JS/PHP/etc) and CSS, and returns a file made up of only the selectors you use.
+- [PurifyCSS Extended](https://github.com/HapLifeMan/purifycss-extended) Fork from the original purifycss
 - [uncss](https://github.com/giakki/uncss) UnCSS is a tool that removes unused CSS from your stylesheets. It works across multiple files and supports Javascript-injected CSS.
 
 ## Image Optimization
