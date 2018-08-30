@@ -4,7 +4,6 @@
 
 ## Articles
 
-- [task automation with npm run](http://substack.net/task_automation_with_npm_run) Author: James Halliday
 - [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) Author: Keith Cirkel
 - [npm based front-end workflow](https://moroccojs.org/tutorials/npm-based-front-end-workflow/) Author: Youssef Kababe
 - [Utilising Node.js and npm for front-end development workflow](http://jsforallof.us/2015/02/12/utilising-node-and-npm-for-front-end-development-workflow/) Author: Ben Howdle
