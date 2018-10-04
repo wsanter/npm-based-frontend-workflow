@@ -4,7 +4,7 @@
 
 ## Articles
 
-- [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) Author: Keith Cirkel
+- [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) Author: Keith Cirkel
 - [Utilising Node.js and npm for front-end development workflow](http://jsforallof.us/2015/02/12/utilising-node-and-npm-for-front-end-development-workflow/) Author: Ben Howdle
 - [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/) Author: Damon Bauer
 - [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.sl4nc2cm7) Author: Cory House
