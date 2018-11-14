@@ -4,6 +4,7 @@
 
 ## Articles
 
+- [Introduction to NPM Scripts](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633) Author: Mohammed Ajmal Siddiqui
 - [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) Author: Keith Cirkel
 - [npm based front-end workflow](https://morocco.js.org/tutorials/npm-based-front-end-workflow/) Author: Youssef Kababe
 - [Utilising Node.js and npm for front-end development workflow](http://jsforallof.us/2015/02/12/utilising-node-and-npm-for-front-end-development-workflow/) Author: Ben Howdle
