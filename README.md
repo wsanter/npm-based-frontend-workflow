@@ -34,7 +34,8 @@
 
 ## Copy / Synchronize Files
 
-- [fs-extra-cli](https://github.com/schalkneethling/fs-extra-cli) A cli wrapper for node-fs-extra
+- [cpx](https://github.com/mysticatea/cpx) A cli tool to watch and copy file globs. 
+- [copyfiles](https://github.com/calvinmetcalf/copyfiles) Copy files on the command line 
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) User-friendly by accepting globs and creating non-existant destination directories.
 - [ncp](https://github.com/AvianFlu/ncp) Asynchronous recursive file & directory copying.
 - [node-sync-files](https://github.com/byteclubfr/node-sync-files) Synchronize files or folders locally, with a watch option.
